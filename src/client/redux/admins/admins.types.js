@@ -1,0 +1,4 @@
+export default {
+	FETCH_ADMINS_SUCCESS : 'FETCH_ADMINS_SUCCESS'
+	
+}
